@@ -1,0 +1,21 @@
+#content_center{
+    width: 350px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+#underline{
+    text-decoration: underline;
+}
+
+#highlight{
+    background-color: orange;
+}
+
+#quote{
+    color: red;
+    font-weight: bold;
+}
